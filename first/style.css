@@ -1,0 +1,39 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin-top: 25px;
+}
+body {
+	width: 50%;
+	margin: auto;
+}
+.top {
+	width: 100%;
+	height: 25%;
+	background-color: red;
+	clear: both;
+}
+.left {
+	width: 33%;
+	height: 100%;
+	float: left;
+	background-color: blue;
+}
+.middle {
+	width: 34%;
+	height: 70%;
+	background-color: yellow;
+	float: left;
+}
+.right {
+	width: 33%;
+	height: 100%;
+	float: left;
+	background-color: blue;
+}
+.bottom {
+	height: 30%;
+	width: 34%;
+	margin: 300px 34% 30% 33%;
+	background-color: green;
+}
